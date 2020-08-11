@@ -84,3 +84,7 @@ C:\Users\yohan\OneDrive\Desktop\PhotoGalery\obj\Debug\PhotoGalery.csproj.CopyCom
 C:\Users\yohan\OneDrive\Desktop\PhotoGalery\obj\Debug\PhotoGalery.dll
 C:\Users\yohan\OneDrive\Desktop\PhotoGalery\obj\Debug\PhotoGalery.pdb
 C:\Users\yohan\OneDrive\Desktop\PhotoGalery\obj\Debug\PhotoGalery.csprojAssemblyReference.cache
+C:\Users\yohan\OneDrive\Desktop\PhotoGalery\bin\EntityFramework.dll
+C:\Users\yohan\OneDrive\Desktop\PhotoGalery\bin\EntityFramework.SqlServer.dll
+C:\Users\yohan\OneDrive\Desktop\PhotoGalery\bin\EntityFramework.xml
+C:\Users\yohan\OneDrive\Desktop\PhotoGalery\bin\EntityFramework.SqlServer.xml
